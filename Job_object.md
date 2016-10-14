@@ -1,14 +1,15 @@
-# First Feature Job
-Job Log Spreadsheet will be distributed into a MVC
+# Job 
+* Job Log Spreadsheet will be distributed into a MVC
 
-## Job_ View Features
-Display Form for "call_taker"
+## View Features
+* Display Form for call_taker
+* define information to be input into form
 
 # Index
-Display
+* Display list of jobs
 
 ## Controller Features
-
+* Make sure form input is valide
 
 ## Model Features
-Ticket Created
+* Ticket Created
